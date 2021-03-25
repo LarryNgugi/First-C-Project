@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612832778 source:c:\users\larry joseph\desktop\c++firstproject\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1614073907 source:d:\school work\code\c++\kebab fries\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
