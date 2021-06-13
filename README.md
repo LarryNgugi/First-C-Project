@@ -1,6 +1,6 @@
 # First-C-Project
 Hotel Based Program
-The program requests for your oder 
+The program requests for your order 
 calculates the total price (taxed price,untaxed price payable amount)
-requests for customers feedback
+requests for clients feedback
 end of program
